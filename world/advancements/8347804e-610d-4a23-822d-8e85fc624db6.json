@@ -1,0 +1,33 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2021-07-18 10:53:50 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:graves": {
+    "criteria": {
+      "tick": "2021-07-18 10:53:50 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2021-07-18 10:53:50 -0400"
+    },
+    "done": true
+  },
+  "vanillatweaks:afk_display": {
+    "criteria": {
+      "tick": "2021-07-18 10:53:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:swamp": "2021-07-18 10:53:50 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 2730
+}
